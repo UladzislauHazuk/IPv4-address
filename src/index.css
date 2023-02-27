@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    font-style: normal;
+    color: white;
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    background-color: #4B81A0;
+}
